@@ -16,7 +16,9 @@ Gemini 3
 
 ### Prompt
 
+```
 Implement the Decorator Design Pattern in JavaScript. Create a `SimpleCoffee` class and use functional decorators like `withMilk` and `withSugar` to dynamically add costs and descriptions to the coffee object. Ensure the code is clean and uses descriptive English names.
+```
 
 # Obfuscated version
 

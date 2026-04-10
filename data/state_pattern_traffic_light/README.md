@@ -16,7 +16,9 @@ Gemini 3.
 
 ### Prompt
 
+```
 Write a Java implementation of the State Design Pattern. Use a traffic light system as an example where a `TrafficLight` context changes its behavior based on its current state (`RedLight`, `GreenLight`). Each state should be able to transition the context to the next state. All identifiers must be in English.
+```
 
 # Obfuscated version
 
