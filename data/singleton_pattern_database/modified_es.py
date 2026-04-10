@@ -9,8 +9,3 @@ class ConexionBaseDeDatos:
 
     def conseguir_datos(self):
         return "Rertornando datos desde la conexion unica"
-
-# Usage
-conn1 = ConexionBaseDeDatos()
-conn2 = ConexionBaseDeDatos()
-print(f"Misma Instancia? {conn1 is conn2}")

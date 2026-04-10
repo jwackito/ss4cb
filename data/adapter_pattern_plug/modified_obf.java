@@ -15,10 +15,3 @@ class _A implements _I {
         _z._v(_n);
     }
 }
-
-public class modified_obf {
-    public static void main(String[] _a) {
-        _I _m = new _A();
-        _m._p("...");
-    }
-}

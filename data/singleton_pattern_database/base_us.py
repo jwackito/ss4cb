@@ -9,8 +9,3 @@ class DatabaseConnection:
 
     def get_data(self):
         return "Returning data from unique connection"
-
-# Usage
-conn1 = DatabaseConnection()
-conn2 = DatabaseConnection()
-print(f"Same instance? {conn1 is conn2}")
