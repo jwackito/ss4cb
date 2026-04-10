@@ -24,11 +24,3 @@ class AudioAdapter implements MediaPlayer {
         advancedPlayer.playVlc(fileName);
     }
 }
-
-// Client
-public class base_us {
-    public static void main(String[] args) {
-        MediaPlayer player = new AudioAdapter();
-        player.play("video_clip.vlc");
-    }
-}
